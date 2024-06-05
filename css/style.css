@@ -20938,3 +20938,7 @@ section {
   width: 30px;
   border-radius: 5px;
 }
+
+hr {
+  margin: 50px 0 50px 0;
+}
